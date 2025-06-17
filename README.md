@@ -37,6 +37,10 @@ I'm currently learning and building more real-world applications to sharpen my d
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+### 🚀 Deployment Platforms
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-141414?style=flat&logo=railway&logoColor=white)
 ---
 ### 🧠 Concepts & Frameworks
 - **API Development**
@@ -63,21 +67,21 @@ I'm currently learning and building more real-world applications to sharpen my d
 
 ---
 
-### [🌐 QuizJap (WIP)](https://github.com/msn123-satya/quizjap)
+### [🌐 Quiz app (WIP)]
 - Quiz app with live timer, scoring, and multiple categories
 - Built using **HTML, CSS, JavaScript**
 - *(Work in progress — final UI & logic coming soon)*
 
 ---
 
-### [🌟 Developer Portfolio Site (WIP)](https://github.com/msn123-satya/portfolio-site)
+### [🌟 Developer Portfolio Site (WIP)]
 - Personal portfolio to showcase projects & skills
 - Built using **HTML, CSS, JS** – resume download, contact form
 - Will include dark mode and blog section *(Coming Soon)*
 
 ---
 
-### [📄 PDF Editor – Merge & Split (Prototype)](https://github.com/msn123-satya/pdf-merge-split)
+### [📄 PDF Editor – Merge & Split (WIP)]
 - Merge and split PDF files in-browser
 - Built using **JavaScript + PDF libraries**
 - *(Prototype stage, UI/UX development ongoing)*
