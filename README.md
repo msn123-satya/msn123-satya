@@ -66,7 +66,7 @@ I'm a self-taught **Python Full-Stack Web Developer** building real-world applic
 
 ---
 
-### [🧠 AI Agent with LangChain (Coming Soon)](https://github.com/msn123-satya/Multi-Agent-AI-System) 
+### [🧠 AI Agent with LangChain (WIP)](https://github.com/msn123-satya/Multi-Agent-AI-System) 
 - Multitool AI Agent built with **LangChain** & **Gemini Flash 2.0**
 - Supports Web Search & Calculator tool integration
 - Backend: FastAPI | Frontend: HTML, CSS, JS
@@ -101,7 +101,7 @@ I'm a self-taught **Python Full-Stack Web Developer** building real-world applic
 
 ---
 
-### [✅ To-Do List Web App](https://github.com/msn123-satya/todo-list)
+### [✅ To-Do List Web App](https://github.com/msn123-satya/to-do-list-app)
 - Add/delete/mark tasks, filter by status
 - Uses **localStorage** to retain tasks
 - Minimal UI using HTML, CSS, JavaScript
