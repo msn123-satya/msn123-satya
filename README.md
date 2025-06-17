@@ -29,7 +29,7 @@ I'm a self-taught **Python Full-Stack Web Developer** building real-world applic
 ## 🔗 Connect with Me
 
 - [GitHub](https://github.com/msn123-satya)
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_LINK)
+- [LinkedIn](https://www.linkedin.com/in/satya-python-dev)
 
 ---
 
