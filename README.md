@@ -18,7 +18,7 @@ I'm a self-taught **Python Full-Stack Web Developer** building real-world applic
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on: AI projects & Full Stack Web Apps  
-- 🌱 I’m currently learning: Node.js, React.js, MongoDB  
+- 🌱 I’m currently learning: AWS Services like AWS S3,EC2,Cloudfront, NoSQL cloud data base i.e:MongoDB  Atlas
 - 🤝 I’m open to: Internships, Web Dev/AI collabs  
 - 💬 Ask me about: Python, FastAPI, Gemini API integration  
 - 📫 How to reach me: msnofficial21341@gmail.com  
