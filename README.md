@@ -1,11 +1,17 @@
 
 # 👋 Hi, I'm Makka Satyanarayana
 
-I’m an aspiring full-stack developer passionate about building intelligent, interactive applications using AI and web technologies.
 
-I recently built a **Smart AI Chatbot** that lets users interact via voice or text, powered by **Google Gemini Flash 2.0**. The backend is built with **FastAPI**, and the frontend uses **HTML, CSS, and JavaScript**. It provides highly structured, user-friendly responses and includes voice-to-text support using the browser’s speech recognition.
 
-I'm currently learning and building more real-world applications to sharpen my development and problem-solving skills.
+I'm a self-taught **Python Full-Stack Web Developer** building real-world applications using **FastAPI**, **HTML**, **CSS**, **JavaScript**, and deploying them with **Vercel**, **Render**, and **Railway**.
+
+🔧 I recently built a **Smart AI Chatbot** that allows voice and text interaction using **Google Gemini Flash 2.0**, powered by FastAPI and a responsive frontend. It includes speech recognition and delivers structured, real-time responses.
+
+🧠 Currently developing a powerful **AI Agent** using **LangChain** and **LangGraph**, integrating tools like **web search**, **calculator**, and more to enable dynamic multi-agent conversations.
+
+☁️ I'm exploring **AWS services** such as **S3**, **EC2**, and **CloudFront** for scalable deployment, and also **learning cloud databases** like **MongoDB Atlas** and **MySQL Server** to build robust, cloud-connected backends.
+
+💼 I’m **open to job roles, internships, or freelance projects**, actively seeking opportunities to contribute, learn, and grow in real-world development environments.
 
 ---
 
