@@ -60,7 +60,7 @@ I'm currently learning and building more real-world applications to sharpen my d
 
 ---
 
-### [🧠 AI Agent with LangChain (Coming Soon)](https://github.com/msn123-satya/ai-agent-langchain) 
+### [🧠 AI Agent with LangChain (Coming Soon)](https://github.com/msn123-satya/Multi-Agent-AI-System) 
 - Multitool AI Agent built with **LangChain** & **Gemini Flash 2.0**
 - Supports Web Search & Calculator tool integration
 - Backend: FastAPI | Frontend: HTML, CSS, JS
