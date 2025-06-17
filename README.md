@@ -1,99 +1,107 @@
 
+# 👋 Hi, I'm Makka Satyanarayana
+
+I’m an aspiring full-stack developer passionate about building intelligent, interactive applications using AI and web technologies.
+
+I recently built a **Smart AI Chatbot** that lets users interact via voice or text, powered by **Google Gemini Flash 2.0**. The backend is built with **FastAPI**, and the frontend uses **HTML, CSS, and JavaScript**. It provides highly structured, user-friendly responses and includes voice-to-text support using the browser’s speech recognition.
+
+I'm currently learning and building more real-world applications to sharpen my development and problem-solving skills.
 
 ---
 
-# Makka Satyanarayana
+## 🧑‍💻 About Me
 
-📞 +91-8688709228
-📧 [msnofficial21341@gmail.com](mailto:msnofficial21341@gmail.com)
-
-[LinkedIn](YourLinkedInLink) | [GitHub](https://github.com/YourGitHub) | [Hackerrank](YourHackerrankLink) | [LeetCode](YourLeetCodeLink)
-
----
-
-## Career Objective
-
-To build a long-term career in a reputed company, showcase my skills, and contribute to the company's growth through innovative and effective solutions.
+- 🔭 I’m currently working on: AI projects & Full Stack Web Apps  
+- 🌱 I’m currently learning: Node.js, React.js, MongoDB  
+- 🤝 I’m open to: Internships, Web Dev/AI collabs  
+- 💬 Ask me about: Python, FastAPI, Gemini API integration  
+- 📫 How to reach me: msnofficial21341@gmail.com  
+- 🌐 Portfolio site: Coming Soon...
 
 ---
 
-## Education
+## 🔗 Connect with Me
 
-**GMR Institute of Technology (Autonomous)** | Rajam, Andhra Pradesh
-B.Tech in Chemical Engineering | 2021 – 2025
-CGPA: 7.86
-
-**Government Junior College** | Rajam, Andhra Pradesh
-Intermediate (MPC) | 2019 – 2021
-Percentage: 88.7%
-
-**A.P. Residential School** | S.M. Puram, Andhra Pradesh
-Secondary School | 2018 – 2019
-CGPA: 9.7
+- [GitHub](https://github.com/msn123-satya)
+- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_LINK)
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-### Smart AI Chat-bot | HTML, CSS, JavaScript, FastAPI
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-* Developed an interactive chatbot integrating the Gemini API for intelligent responses.
-* Implemented a FastAPI backend for efficient user queries, enabling real-time AI-driven conversations.
-* Designed an intuitive frontend for smooth user interaction, enhancing chatbot usability and performance.
+---
+### 🧠 Concepts & Frameworks
+- **API Development**
+- **RESTful API Design**
+- **LangChain Framework (AI Agents)**
+- **Project Architecture Designer (Frontend + Backend separation)**
+- **Version Control with Git & GitHub**
+- **Frontend Integration with Backend APIs**
 
-### Weather App | HTML, CSS, JavaScript
+## 🚀 Featured Projects
 
-* Built a weather application that fetches real-time weather data for any city using a public API.
-* Displays temperature, humidity, and weather conditions with an interactive UI.
-
-### To-Do List Web App | HTML, CSS, JavaScript
-
-* Developed a simple web-based To-Do List allowing users to add, delete, and mark tasks as completed.
-* Features interactive UI with checkboxes, local storage for tasks, and dynamic filtering (all, completed, pending).
+### [🤖 Smart AI Chatbot](https://github.com/msn123-satya/msn-chat-bot)
+- Voice & text-based chatbot powered by **Google Gemini Flash 2.0**
+- Backend: **FastAPI**, served using **Uvicorn**
+- Frontend: **HTML, CSS, JavaScript**
+- Voice-to-text input support, clean UI, and structured AI responses
 
 ---
 
-## Technical Skills
-
-* **Programming Languages:** Python, JavaScript
-* **Tools:** Git, GitHub, VS Code, Jupyter Notebook
-* **Frameworks and Libraries:** FastAPI, NumPy, Pandas, Matplotlib
-* **Operating System:** Windows
+### [🧠 AI Agent with LangChain (Coming Soon)](https://github.com/msn123-satya/ai-agent-langchain) 
+- Multitool AI Agent built with **LangChain** & **Gemini Flash 2.0**
+- Supports Web Search & Calculator tool integration
+- Backend: FastAPI | Frontend: HTML, CSS, JS
 
 ---
 
-## Internships
-
-### PLC Programming | MSME Technology Centre, Visakhapatnam (4 weeks)
-
-* Learned the basics of Programmable Logic Controllers (PLCs) and their role in industrial automation.
-* Developed ladder logic programs for simple automation tasks using PLC software.
-* Understood input/output (I/O) modules, timers, counters, and control logic design.
+### [🌐 QuizJap (WIP)](https://github.com/msn123-satya/quizjap)
+- Quiz app with live timer, scoring, and multiple categories
+- Built using **HTML, CSS, JavaScript**
+- *(Work in progress — final UI & logic coming soon)*
 
 ---
 
-## Certifications
-
-* **IBM:** Python Basics for Data Science
-* **IBM:** Introduction to Web Development with HTML5, CSS3, and JavaScript
-* **Hackerrank:** Python (Basic)
-* **IBM:** Introduction to SQL
+### [🌟 Developer Portfolio Site (WIP)](https://github.com/msn123-satya/portfolio-site)
+- Personal portfolio to showcase projects & skills
+- Built using **HTML, CSS, JS** – resume download, contact form
+- Will include dark mode and blog section *(Coming Soon)*
 
 ---
 
-## Languages Known
-
-* English
-* Telugu
-
----
-
-## Achievements
-
-* **IIChE Coordinator (2022–2024):** Organized technical events, workshops, and industrial visits for the IIChE student chapter.
-* Solved 50+ problems on **HackerRank**: Strengthened coding proficiency in Python and SQL.
-* Solved 50+ problems on **LeetCode**: Improved problem-solving skills in Data Structures and Algorithms (DSA).
+### [📄 PDF Editor – Merge & Split (Prototype)](https://github.com/msn123-satya/pdf-merge-split)
+- Merge and split PDF files in-browser
+- Built using **JavaScript + PDF libraries**
+- *(Prototype stage, UI/UX development ongoing)*
 
 ---
 
-Feel free to adjust the links and add more sections as needed. This should give visitors a clear understanding of your background, skills, and accomplishments.
+### [☁️ Weather App](https://github.com/msn123-satya/weather-app)
+- Real-time weather data using OpenWeatherMap API
+- Displays temperature, humidity, and weather status
+- Clean responsive UI in HTML, CSS, JavaScript
+
+---
+
+### [✅ To-Do List Web App](https://github.com/msn123-satya/todo-list)
+- Add/delete/mark tasks, filter by status
+- Uses **localStorage** to retain tasks
+- Minimal UI using HTML, CSS, JavaScript
+
+---
+
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
+
+---
+
