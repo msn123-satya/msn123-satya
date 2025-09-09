@@ -95,7 +95,7 @@ I'm a self-taught **Python Full-Stack Web Developer** building real-world applic
 
 ---
 
-### [☁️ Weather App](https://github.com/msn123-satya/weather-app)
+### [☁️ Weather App](https://weather-app-nu-pied-24.vercel.app)
 - Real-time weather data using OpenWeatherMap API
 - Displays temperature, humidity, and weather status
 - Clean responsive UI in HTML, CSS, JavaScript
