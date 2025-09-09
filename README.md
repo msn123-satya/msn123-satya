@@ -102,7 +102,7 @@ I'm a self-taught **Python Full-Stack Web Developer** building real-world applic
 
 ---
 
-### [✅ To-Do List Web App](https://github.com/msn123-satya/to-do-list-app)
+### [✅ To-Do List Web App](https://to-do-list-app-gamma-one.vercel.app)
 - Add/delete/mark tasks, filter by status
 - Uses **localStorage** to retain tasks
 - Minimal UI using HTML, CSS, JavaScript
