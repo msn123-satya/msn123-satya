@@ -73,10 +73,11 @@ I'm a self-taught **Python Full-Stack Web Developer** building real-world applic
 
 ---
 
-### [🌐 Quiz app (WIP)]
-- Quiz app with live timer, scoring, and multiple categories
+### [🌐 HTML Document Preview Editor](https://html-previe-editor.vercel.app)
+- Real-time preview editor that instantly shows HTML output while typing.
+- An editable code interface allowing users to modify HTML and see results immediately.
+- Designed a clean, user-friendly UI suitable for both beginners and advanced users.
 - Built using **HTML, CSS, JavaScript**
-- *(Work in progress — final UI & logic coming soon)*
 
 ---
 
